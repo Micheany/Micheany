@@ -3,8 +3,7 @@
 
 
 - 💚 Estudando Desenvolvimento Web na Trybe
-- 🤔 Apredendo Javascript
-- 😄 Pronouns: ela/dela
+- 🐞 Apredendo Javascript
 
 <div align="center">
   <a href="https://github.com/Micheany">
