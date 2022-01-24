@@ -3,7 +3,7 @@
 
 
 - 💚 Estudando Desenvolvimento Web na Trybe
-- 🐞 Apredendo Javascript
+- 🐞 Apredendo React
 
 <div align="center">
   <a href="https://github.com/Micheany">
