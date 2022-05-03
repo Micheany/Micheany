@@ -2,7 +2,7 @@
 
 Tenho 23 ano e moro atualmente em Campo Mourão no Paraná. Sou uma pessoa que gosta de se aventurar, inventar, descobrir coisas novas e me desafiar. Sou graduanda de Engenharia Eletrônica na UTFPR, instrutora de oficinas de robóticas para crianças nas horas vagas e atualmente estou desenvolvendo minha carreira em desenvolvimento Web Fullstack.
 
-![My Avatar](http://url/to/img.png)
+<img height="350em" align='right' src="https://user-images.githubusercontent.com/56052445/166488973-1f2a53c5-cf29-4651-92a4-afb220659ebb.png"/>
 
 * 💚 Estudando Desenvolvimento Web na Trybe
 * 🐞 Apredendo SQL
