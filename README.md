@@ -17,4 +17,4 @@ Meu linkedin: https://www.linkedin.com/in/michellemirany/
 
 ### 🖥️ **Tecnologias que eu trabalho**
   
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,c,figma,git&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,redux,c,figma,git&theme=light)](https://skills.thijs.gg)
