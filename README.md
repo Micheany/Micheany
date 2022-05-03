@@ -1,9 +1,11 @@
-### Oiii! Eu sou Michelle Mirany ✨
+## **Oiii! Eu sou Michelle Mirany ✨**
 
+Tenho 23 ano e moro atualmente em Campo Mourão no Paraná. Sou uma pessoa que gosta de se aventurar, inventar, descobrir coisas novas e me desafiar. Sou graduanda de Engenharia Eletrônica na UTFPR, instrutora de oficinas de robóticas para crianças nas horas vagas e atualmente estou desenvolvendo minha carreira em desenvolvimento Web Fullstack.
 
+![My Avatar](http://url/to/img.png)
 
-- 💚 Estudando Desenvolvimento Web na Trybe
-- 🐞 Apredendo SQL
+* 💚 Estudando Desenvolvimento Web na Trybe
+* 🐞 Apredendo SQL
 
 <div align="center">
   <a href="https://github.com/Micheany">
@@ -11,4 +13,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micheany&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
-  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,c,figma,git&theme=light)](https://skills.thijs.gg)
+### 🖥️ **Tecnologias que eu trabalho**
+  
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,c,figma,git&theme=light)](https://skills.thijs.gg)
