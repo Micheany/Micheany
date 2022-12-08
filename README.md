@@ -1,11 +1,12 @@
 ## **Oiii! Eu sou Michelle Mirany ✨**
 
-Tenho 23 ano e moro atualmente em Campo Mourão no Paraná. Gosto de me aventurar em novas tecnologias, solucionar problemas e me desafiar. Sou graduanda de Engenharia Eletrônica na UTFPR, instrutora de oficinas de robóticas para crianças e atualmente estou desenvolvendo minha carreira em desenvolvimento Web Fullstack.
+Tenho 23 ano e moro atualmente em Campo Mourão no Paraná. Gosto de me aventurar em novas tecnologias, solucionar problemas e me desafiar. Sou graduanda de Engenharia Eletrônica na UTFPR, instrutora de oficinas de robóticas para crianças e atualmente estou desenvolvendo minha carreira em desenvolvimento Web Fullstack. Tenho uma queda por desenvolver interfaces e fazer delas um produto consistente para o usuário e clientes.
 
 <img height="350em" align='right' src="https://user-images.githubusercontent.com/56052445/166488973-1f2a53c5-cf29-4651-92a4-afb220659ebb.png"/>
 
 * 💚 Estudando Desenvolvimento Web na Trybe
-* 🐞 Apredendo SQL
+* 🐞 Apredendo Phyton
+* 🤝 Desenvolvedora Jr. no Mercado Livre
 
 Meu linkedin: https://www.linkedin.com/in/michellemirany/
 
